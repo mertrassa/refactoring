@@ -1,11 +1,8 @@
-a473bed (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+267489a (HEAD -> main, origin/main, origin/HEAD) Task 2.3
+a473bed Task 2.2
 1fde815 Task 2.1
 390d54d Task 1.2
 0d450a2 Task 1.1 completed
 8b9f98a Task 1.1 completed
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
-b545fe2 clarifying extracted method names in README.md
-a0124c9 fixing starter file
-c8d9d38 adding starter files
-cbe4517 first commit
